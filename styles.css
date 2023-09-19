@@ -6,13 +6,15 @@
 	background-color:gray;
 }
 .gbox{
+    display:flex;
 	height:100px;
 	width:100px;
 	background-color:green;
 	border-radius:50%;
 	margin:20px;
-}
+}  
 .ybox{
+	display:flex;
 	height:100px;
 	width:100px;
 	background-color:yellow;
@@ -20,6 +22,7 @@
 	margin:20px;
 }
 .rbox{
+	display:flex;
 	height:100px;
 	width:100px;
 	background-color:red;
