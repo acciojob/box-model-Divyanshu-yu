@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+.lbox{
+	display:flex;
+	justify-content:space-around;
+	border:2px solid black;
+	background-color:gray;
+}
+.gbox{
+	height:100px;
+	width:100px;
+	background-color:green;
+	border-radius:50%;
+	margin:20px;
+}
+.ybox{
+	height:100px;
+	width:100px;
+	background-color:yellow;
+	border-radius:50%;
+	margin:20px;
+}
+.rbox{
+	height:100px;
+	width:100px;
+	background-color:red;
+	border-radius:50%;
+	margin:20px;
+}
